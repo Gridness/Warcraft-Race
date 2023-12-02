@@ -1,2 +1,2 @@
 # Warcraft-Race
-A custom game for Warcraf 3
+A custom game for Warcraft 3
